@@ -5,7 +5,6 @@
 
 <ul>
     <li><a href="#tech-stack-overview">Tech Stack Overview</a></li>
-    <li><a href="#git-workflow">Git Workflow</a></li>
 </ul>
 
 
